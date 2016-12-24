@@ -30,11 +30,19 @@ A curated list of companies using Vue.js in production, organized by industry.
 
 * [Trisoft](https://www.trisoft.ro) ([Github](https://github.com/tsslabs)) - We are a Romanian full service agency providing customized web and mobile software solutions for world-wide startups and businesses. Brasov, Romania.
 
+#### Content Management
+
+* [Pagekit](https://pagekit.com) ([Github](https://github.com/pagekit)) - Pagekit is a modular and lightweight CMS built with modern technologies. It gives you the tools to create beautiful websites. All wrapped up in a clean and intuitive user interface.
+
 #### Developers
 
 * [Gitlab](https://about.gitlab.com/) ([Github](https://github.com/gitlabhq)) - GitLab is open source software to collaborate on code. Everyone can contribute. [Why We Chose Vue.js](https://about.gitlab.com/2016/10/20/why-we-chose-vue/)
 
 * [Timekit](https://www.timekit.io/) ([Github](https://github.com/timekit-io))- API first scheduling & calendar infrastructure for developers. San Francisco, CA.
+
+#### E-commerce
+
+* [Eleme](https://www.ele.me) - ([Github](https://github.com/eleme)) - Ele.me.com is a website that offers customer-to-customer meal ordering services. [One of their project built with Vue.js](https://github.com/ElemeFE/element)
 
 #### Education
 
