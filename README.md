@@ -1,4 +1,11 @@
-# VueJS Companies
+<p align="center">
+  <br>
+  <img width="150" src="http://012.vuejs.org/images/logo.png" alt="awesome">
+  <br>
+  <br>
+</p>
+
+# Vue.js Companies
 
 [![Build Status](https://travis-ci.org/kimquy/vue-companies.svg?branch=master)](https://travis-ci.org/kimquy/vue-companies)
 
