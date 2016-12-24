@@ -22,7 +22,13 @@ A curated list of companies using Vue.js in production, organized by industry.
 
 * [JBay Solutions](https://www.jbaysolutions.com/) ([Github](https://github.com/jbaysolutions)) - Development, consulting and support of projects based on Java, Android and Open Source technologies. Lisbon, Portugal.
 
+* [htmlBurger](https://htmlburger.com) ([Github](https://github.com/htmlburger)) - Behind htmlBurger stands an experienced team of web designers and developers focused on providing coding services, especially for agencies and web design freelancers. Varna, Bulgaria.
+
+* [Monterail](https://monterail.com/) ([Github](https://github.com/monterail)) - We are a team of avid software experts in the modern web. Enabling your product as an elegant custom software with proven processes, quality code and character. Wrocław, Poland.
+
 * [THE DIFFERENCE ENGINE](http://www.thedifferenceengine.io/) ([Github](https://github.com/the-difference-engine)) - Rapidly invent your personalized learning experiences on our flexible, learner-centric platform. Washington, D.C, USA.
+
+* [Trisoft](https://www.trisoft.ro) ([Github](https://github.com/tsslabs)) - We are a Romanian full service agency providing customized web and mobile software solutions for world-wide startups and businesses. Brasov, Romania.
 
 #### Developers
 
@@ -31,6 +37,8 @@ A curated list of companies using Vue.js in production, organized by industry.
 * [Timekit](https://www.timekit.io/) ([Github](https://github.com/timekit-io))- API first scheduling & calendar infrastructure for developers. San Francisco, CA.
 
 #### Education
+
+* [Anyone Can Learn To Code](http://anyonecanlearntocode.com/) ([Github](https://github.com/acltc)) - Learn to code in 12 weeks without quitting your day job through expert instruction and hands-on practice. Afterwards, we work directly with you on landing a job while you join our apprenticeship and build a portfolio showcasing work that you've built for real clients.
 
 * [Learning Equality](https://learningequality.org) ([Github](https://github.com/learningequality)) - Learning Equality is committed to enabling every person in the world to achieve a quality basic education, through supporting the creation and distribution of open educational resources, and facilitating their use inside and outside of classrooms around the world. La Jolla, CA, USA.
 
@@ -41,3 +49,7 @@ A curated list of companies using Vue.js in production, organized by industry.
 #### Life Science
 
 * [Desktop Genetics](https://www.deskgen.com) ([Github](https://github.com/DeskGen)) - Building an AI to engineer genomes. We offer sgRNA design tools and custom CRISPR library design and validation services to investigators globally. London, UK.
+
+#### Security
+
+* [Chaitin](https://chaitin.cn) ([Github](https://github.com/chaitin)) - Changting Technology has a top-level security research team and technology research and development team, committed to the development of new network security technology, improve the level of domestic security, convergence of international top technology. Beijing, China.
