@@ -28,7 +28,7 @@ A curated list of companies using Vue.js in production, organized by industry.
 
 * [THE DIFFERENCE ENGINE](http://www.thedifferenceengine.io/) ([Github](https://github.com/the-difference-engine)) - Rapidly invent your personalized learning experiences on our flexible, learner-centric platform. Washington, D.C, USA.
 
-* [Trisoft](https://www.trisoft.ro) ([Github](https://github.com/tsslabs)) - We are a Romanian full service agency providing customized web and mobile software solutions for world-wide startups and businesses. Brasov, Romania.
+* [Trisoft](https://www.trisoft.ro) ([Github](https://github.com/trisoftro)) - We are a Romanian full service agency providing customized web and mobile software solutions for world-wide startups and businesses. Brasov, Romania.
 
 #### Content Management
 
